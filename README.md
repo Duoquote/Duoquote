@@ -1,5 +1,7 @@
 <p align="center">
+
 # Güven Değirmenci — Duoquote
+
 <img src="https://lambda.sx/2OF.png" alt="Sublime's custom image"/>
 
 [![Stackoverflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/7493063?color=%2366ccff&logo=stackoverflow)](https://stackoverflow.com/users/7493063/guven-degirmenci)
