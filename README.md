@@ -8,9 +8,10 @@
   <img src="https://img.shields.io/uptimerobot/ratio/m785555578-993136aab7bb4ff829023ffe?label=UPTIME%20%2830%20Days%29&style=for-the-badge" alt="My server's uptime"/>
   <a href="#js-contribution-activity"><img src="https://img.shields.io/badge/My%20Contributions-%E2%88%9E-green?style=for-the-badge" alt="My Github Contributions"></a>
 </p>
-
-Hello, I am Güven Değirmenci, I try coding stuff here.
-
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=Duoquote&theme=nord&no-frame=true&column=6" alt="Duoquote"/>
 </p>
+
+
+Hello, I am Güven Değirmenci, I try coding stuff here.
+
