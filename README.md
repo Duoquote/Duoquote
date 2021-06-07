@@ -12,5 +12,5 @@
 Hello, I am Güven Değirmenci, I try coding stuff here.
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Duoquote&theme=nord&no-frame=true&column=7" alt="Duoquote"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=Duoquote&theme=nord&no-frame=true&column=6" alt="Duoquote"/>
 </p>
