@@ -12,6 +12,6 @@
  <img src="https://github-profile-trophy.vercel.app/?username=Duoquote&theme=nord&no-frame=true&column=6" alt="Duoquote"/>
 </p>
 
-
+<p align="center">
 Hello, I am Güven Değirmenci, I try coding stuff here.
-
+</p>
