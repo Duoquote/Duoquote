@@ -6,6 +6,25 @@
 
 <h1 align="center">
   <b>Güven Değirmenci</b>
+  <br></br>
+  <a href="https://www.linkedin.com/in/duoquote/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Duoquote" />
+  </a>
+  <a href="https://www.hackerrank.com/Duoquote">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Duoquote" />
+  </a>
+  <a href="https://stackoverflow.com/users/7493063/guven-degirmenci?tab=profile">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Duoquote" />
+  </a>
+  <a href="https://steamcommunity.com/id/duoquote">
+    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Duoquote" />
+  </a>
+  <a href="https://www.instagram.com/duoquote/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Duoquote" />
+  </a>
+  <a href="https://www.facebook.com/Duoquote">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Duoquote" />
+  </a>
 </h1>
 
 <p align="center">
@@ -32,3 +51,9 @@
     </tr>
   </tbody>
 </table>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/11139200327">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11139200327&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=000000&bar_color_cover=true" alt="Duoquote" />
+  </a>
+</p>
