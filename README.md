@@ -1,19 +1,26 @@
-# Güven Değirmenci — Duoquote
 <p align="center">
-  <a href="https://guvendegirmenci.com"><img src="https://lambda.sx/2OF.png" alt="Sublime's custom image"/></a>
+  <a href="https://www.linkedin.com/in/duoquote/">
+    <img width="256" src="logo.png" alt="Stackoverflow Reputation" />
+  </a>
 </p>
+
+<h1 align="center">
+  <b>Güven Değirmenci</b>
+</h1>
+
 <p align="center">
-  <a href="https://stackoverflow.com/users/story/7493063"><img src="https://img.shields.io/stackexchange/stackoverflow/r/7493063?logo=stackoverflow&style=for-the-badge" alt="Stackoverflow Reputation"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Duoquote&theme=dark_lover&margin-w=8&no-frame=true&column=6" alt="Duoquote" />
 </p>
-<p align="center">
-  <a href="https://wakatime.com/@511c6186-b7d0-4eaf-8469-3af68b1f15b2"><img src="https://wakatime.com/badge/user/511c6186-b7d0-4eaf-8469-3af68b1f15b2.svg" alt="Total time coded since Jun 10 2021" /></a>
-  </p>
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Duoquote&theme=nord&no-frame=true&column=6" alt="Duoquote"/>
-</p>
-<p align="center">
-<a href="https://wakatime.com/@511c6186-b7d0-4eaf-8469-3af68b1f15b2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duoquote&layout=compact" alt="Total time coded since Jun 10 2021" /></a>
-</p>
-<p align="center">
-Hello, I am Güven Değirmenci, I try coding stuff here.
-</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td style="width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=duoquote&theme=dark&layout=compact&langs_count=8&custom_title=Coding%20Time%20Stats" />
+      </td>
+      <td style="width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=duoquote&line_height=24.7&count_private=true&include_all_commits&show_icons=true&theme=dark&custom_title=Github%20Stats" />
+      </td>
+    </tr>
+  </tbody>
+</table>
