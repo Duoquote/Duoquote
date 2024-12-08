@@ -57,3 +57,5 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=11139200327&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=000000&bar_color_cover=true" alt="Duoquote" />
   </a>
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=duoquote&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)
