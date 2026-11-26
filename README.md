@@ -1,6 +1,6 @@
-<img src="logo.png" width="112" align="right" alt="Duoquote logo: red and orange angle brackets">
-
 # Güven Değirmenci
+
+<img src="logo.png" width="120" align="right" alt="Duoquote logo: red and orange angle brackets">
 
 Developer at [NextGeography](https://nextgeography.com) in Turkey. I've been on GitHub since 2015. Mostly TypeScript and Python, and more Rust and Go lately.
 
