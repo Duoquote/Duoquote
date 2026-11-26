@@ -94,7 +94,7 @@ Runs Windows `diskpart` from Python. Old and small, but it still gets stars.<br>
 
 ## What I use
 
-TypeScript, Python, Rust and Go. On the web side React, Bun and Node, PostGIS for anything spatial, and Flutter when it has to be a phone app. Docker and Cloudflare for running things.
+TypeScript, Python, Rust and Go. On the web side React, Bun and Node, PostGIS for anything spatial, and Capacitor when it has to be a phone app. Docker and Cloudflare for running things.
 
 ---
 
