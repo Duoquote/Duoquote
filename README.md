@@ -38,8 +38,8 @@ DNS for ZeroTier networks. It reads members from the ZTNet API and serves them w
 <td width="50%" valign="top">
 
 **[polyline-benchmark](https://github.com/Duoquote/polyline-benchmark)**<br>
-Benchmarks for JavaScript polyline encoders and decoders. Every implementation has to round-trip the same test data first, because a fast decoder that's wrong isn't really useful.<br>
-<sub>TypeScript · Node, Bun, Deno</sub>
+Benchmarks for eight JavaScript polyline libraries, encode and decode. Each one is checked against a reference codec first, because a fast decoder that's wrong isn't really useful.<br>
+<sub>JavaScript · Node, Bun, Deno</sub>
 
 </td>
 </tr>
@@ -79,11 +79,11 @@ Runs Windows `diskpart` from Python. Old and small, but it still gets stars.<br>
 **Updated**
 
 <!-- updated:start -->
+- [polyline-benchmark](https://github.com/Duoquote/polyline-benchmark), 2026-11-26
 - [ztnet-coredns](https://github.com/Duoquote/ztnet-coredns), 2026-11-26
 - [duo-web](https://github.com/Duoquote/duo-web), 2026-11-26
 - [claude-plugins](https://github.com/Duoquote/claude-plugins), 2026-11-13
 - [claude-subs](https://github.com/Duoquote/claude-subs), 2026-11-07
-- [logo-gen](https://github.com/Duoquote/logo-gen), 2026-09-21
 <!-- updated:end -->
 
 </td>
