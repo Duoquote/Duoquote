@@ -14,16 +14,32 @@ Outside work I build tools I need myself, mostly around Claude Code. If one turn
 <tr>
 <td width="50%" valign="top">
 
+**[polytini](https://github.com/Duoquote/polytini)**<br>
+Encoder and decoder for Google encoded polylines. Encoding is 2 to 3 times faster than the other JavaScript libraries from 1,000 points up, and decoding is about even. Also covers HERE flexible polylines, routing engine presets, and adapters for Leaflet, Turf, MapLibre, OpenLayers and deck.gl.<br>
+<sub>JavaScript · Node, Bun, Deno, browser · optional WASM</sub>
+
+</td>
+<td width="50%" valign="top">
+
 **[claude-subs](https://github.com/Duoquote/claude-subs)**<br>
 If you have more than one Claude account, this switches Claude Code between them in one click. It also shows how much of each account's 5-hour and weekly limit is left, so you know which one to switch to.<br>
 <sub>Rust · band inside Claude Code, Windows tray app, CLI</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[claude-plugins](https://github.com/Duoquote/claude-plugins)**<br>
 My Claude Code plugins. The first one is `lead`, an output style that makes Claude Code work like a team lead: it does small things itself and hands bigger work to a builder agent and a few reader agents.<br>
 <sub>Claude Code plugin marketplace</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[logo-gen](https://github.com/Duoquote/logo-gen)**<br>
+A logo generator you talk to. You describe the brand, it asks a few questions, then generates logos with local models like FLUX.1 Schnell or cloud models through OpenRouter.<br>
+<sub>TypeScript · Python · local and cloud image models</sub>
 
 </td>
 </tr>
@@ -43,23 +59,9 @@ Benchmarks for eight JavaScript polyline libraries, encode and decode. Each one 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-**[stroke-order-sheet](https://github.com/Duoquote/stroke-order-sheet)**<br>
-Printable stroke order practice sheets for Chinese characters, built on the makemeahanzi stroke data. An old one, from 2018.<br>
-<sub>JavaScript · Python</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[logo-gen](https://github.com/Duoquote/logo-gen)**<br>
-A logo generator you talk to. You describe the brand, it asks a few questions, then generates logos with local models like FLUX.1 Schnell or cloud models through OpenRouter.<br>
-<sub>TypeScript · Python · local and cloud image models</sub>
-
-</td>
-</tr>
 </table>
+
+Older: [stroke-order-sheet](https://github.com/Duoquote/stroke-order-sheet), printable stroke order practice sheets for Chinese characters, from 2018.
 
 ## Recently
 
