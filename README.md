@@ -55,7 +55,7 @@ Printable stroke order practice sheets for Chinese characters, built on the make
 
 **[logo-gen](https://github.com/Duoquote/logo-gen)**<br>
 A logo generator you talk to. You describe the brand, it asks a few questions, then generates logos with local models like FLUX.1 Schnell or cloud models through OpenRouter.<br>
-<sub>TypeScript · local and cloud image models</sub>
+<sub>TypeScript · Python · local and cloud image models</sub>
 
 </td>
 </tr>
