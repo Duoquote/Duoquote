@@ -2,7 +2,7 @@
 
 <img src="logo.png" width="120" align="right" alt="Duoquote logo: red and orange angle brackets">
 
-Developer at [NextGeography](https://nextgeography.com) in Turkey. I've been on GitHub since 2015. Mostly TypeScript and Python, and more Rust and Go lately.
+CTO and Managing Partner at [NextGeography](https://nextgeography.com) in Turkey. I've been on GitHub since 2015. Mostly TypeScript and Python, and more Rust and Go lately.
 
 At NextGeography we build GIS software, essentially everything from the map in the browser to the PostGIS database behind it. Also mobile apps for collecting data in the field, scrapers that keep public datasets up to date, and lately LLM pipelines that turn documents into structured data.
 
