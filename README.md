@@ -79,11 +79,11 @@ A logo generator you talk to. You describe the brand, it asks a few questions, t
 **Updated**
 
 <!-- updated:start -->
+- [polytini](https://github.com/Duoquote/polytini), 2026-11-26
 - [polyline-benchmark](https://github.com/Duoquote/polyline-benchmark), 2026-11-26
-- [ztnet-coredns](https://github.com/Duoquote/ztnet-coredns), 2026-11-26
 - [duo-web](https://github.com/Duoquote/duo-web), 2026-11-26
+- [ztnet-coredns](https://github.com/Duoquote/ztnet-coredns), 2026-11-26
 - [claude-plugins](https://github.com/Duoquote/claude-plugins), 2026-11-13
-- [claude-subs](https://github.com/Duoquote/claude-subs), 2026-11-07
 <!-- updated:end -->
 
 </td>
