@@ -68,6 +68,7 @@ Older: [stroke-order-sheet](https://github.com/Duoquote/stroke-order-sheet), pri
 I write about the things I build on [blog.dq.ms](https://blog.dq.ms).
 
 <!-- posts:start -->
+- [How I run subagents: an orchestrator, a lead developer and the right order](https://blog.dq.ms/orchestrator-subagent-pattern), 2026-11-27
 - [polytini: a polyline codec that came out of a benchmark](https://blog.dq.ms/polytini), 2026-11-27
 <!-- posts:end -->
 
@@ -89,10 +90,10 @@ I write about the things I build on [blog.dq.ms](https://blog.dq.ms).
 **Updated**
 
 <!-- updated:start -->
+- [duo-web](https://github.com/Duoquote/duo-web), 2026-11-27
 - [polytini](https://github.com/Duoquote/polytini), 2026-11-27
 - [polyline-benchmark](https://github.com/Duoquote/polyline-benchmark), 2026-11-27
 - [logo-gen](https://github.com/Duoquote/logo-gen), 2026-11-27
-- [duo-web](https://github.com/Duoquote/duo-web), 2026-11-27
 - [ztnet-coredns](https://github.com/Duoquote/ztnet-coredns), 2026-11-26
 <!-- updated:end -->
 
