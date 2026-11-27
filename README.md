@@ -63,6 +63,14 @@ Benchmarks for eight JavaScript polyline libraries, encode and decode. Each one 
 
 Older: [stroke-order-sheet](https://github.com/Duoquote/stroke-order-sheet), printable stroke order practice sheets for Chinese characters, from 2018.
 
+## Writing
+
+I write about the things I build on [blog.dq.ms](https://blog.dq.ms).
+
+<!-- posts:start -->
+- [polytini: a polyline codec that came out of a benchmark](https://blog.dq.ms/polytini), 2026-11-27
+<!-- posts:end -->
+
 ## Recently
 
 <table>
@@ -81,11 +89,11 @@ Older: [stroke-order-sheet](https://github.com/Duoquote/stroke-order-sheet), pri
 **Updated**
 
 <!-- updated:start -->
-- [polytini](https://github.com/Duoquote/polytini), 2026-11-26
-- [polyline-benchmark](https://github.com/Duoquote/polyline-benchmark), 2026-11-26
-- [duo-web](https://github.com/Duoquote/duo-web), 2026-11-26
+- [duo-web](https://github.com/Duoquote/duo-web), 2026-11-27
+- [polytini](https://github.com/Duoquote/polytini), 2026-11-27
+- [polyline-benchmark](https://github.com/Duoquote/polyline-benchmark), 2026-11-27
+- [logo-gen](https://github.com/Duoquote/logo-gen), 2026-11-27
 - [ztnet-coredns](https://github.com/Duoquote/ztnet-coredns), 2026-11-26
-- [claude-plugins](https://github.com/Duoquote/claude-plugins), 2026-11-13
 <!-- updated:end -->
 
 </td>
