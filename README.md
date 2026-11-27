@@ -15,7 +15,7 @@ Outside work I build tools I need myself, mostly around Claude Code. If one turn
 <td width="50%" valign="top">
 
 **[polytini](https://github.com/Duoquote/polytini)**<br>
-Encoder and decoder for Google encoded polylines. Encoding is 2 to 3 times faster than the other JavaScript libraries from 1,000 points up, and decoding is about even. Also covers HERE flexible polylines, routing engine presets, and adapters for Leaflet, Turf, MapLibre, OpenLayers and deck.gl.<br>
+Encoder and decoder for Google encoded polylines. Encoding is about 2 times as fast as the other JavaScript libraries, and long lines decode about 1.2 times as fast; short lines still decode a bit slower. Also covers HERE flexible polylines, routing engine presets, and adapters for Leaflet, Turf, MapLibre, OpenLayers and deck.gl. [Try it in the browser](https://duoquote.github.io/polytini/).<br>
 <sub>JavaScript · Node, Bun, Deno, browser · optional WASM</sub>
 
 </td>
